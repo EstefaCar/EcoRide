@@ -1,6 +1,5 @@
-
-streamlit
-pandas
-joblib
-numpy
-scikit-learn # Assuming pipeline_preproc and modelo_churn use scikit-learn components
+streamlit==1.57.0
+pandas==2.2.2
+joblib==1.5.3
+numpy==2.0.2
+scikit-learn==1.6.1
