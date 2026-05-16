@@ -1,0 +1,6 @@
+
+streamlit
+pandas
+joblib
+numpy
+scikit-learn # Assuming pipeline_preproc and modelo_churn use scikit-learn components
